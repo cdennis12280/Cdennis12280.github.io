@@ -119,6 +119,18 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      
+      - layout: left
+        title: Notary Northampton
+        link: https://notarynorthampton.co.uk/
+        # link_text: https://notarynorthampton.co.uk/
+        sub_title: Head of Finance and Strategy (Ad-Hoc )
+        caption: April 2023 - Present
+        quote: >
+          To provide expert verification and authentication of documents for international and commercial transactions, ensuring integrity and compliance while supporting clients with professionalism and precision. 
+        description: | # this will include new lines to allow paragraphs
+            Responsible for maintaining a robust control environment, driving operational finance transformation through process automation and insightful forecasting, and developing a best-in-class finance function.
+
       - layout: left
         title: West Northampton Council
         link: https://www.westnorthants.gov.uk/
