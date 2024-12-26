@@ -62,13 +62,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: New-Age Pilot
+        title: CCRD Pilot
         link: github.com/cdennis12280
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  cdennis12280/CCRD-Pilot
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/cdennis12280
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
