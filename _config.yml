@@ -45,6 +45,20 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TDRPKY7HX0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TDRPKY7HX0');
+</script>
+
+
+
+
+
 
 # About Section
 # about_title: About Me
