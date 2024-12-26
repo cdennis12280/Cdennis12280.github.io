@@ -55,24 +55,8 @@ about_profile_image: images/IMG_20240309_153514.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, I’m Charles, a CGMA-qualified accountant with a solid foundation in financial analysis and reporting. Over the course of my career, I’ve developed expertise in financial modeling, data analysis, and auditing. I’m a driven and results-focused professional with a track record of streamlining financial processes, enhancing reporting accuracy, and providing strategic business advice. I’m excited about applying my skills and experience to a challenging role where I can deliver meaningful impact.
 
-  Key skills I have to help improve your market capital, share price and improve efficiency: <mark>Financial analysis</mark>, interpreting financial data to assess performance and inform strategic decision-making. <mark>Budgeting and forecasting</mark>, developing, managing, and adjusting financial forecasts and budgets.
-<mark>Power BI dashboard creation</mark>, designing interactive and visually compelling dashboards to present data insights.
-<mark>Risk identification and assessment</mark>, identifying, evaluating, and prioritizing risks across business processes.
-<mark>Data visualization</mark>, creating clear, actionable visualizations to represent complex data sets.
-<mark>Variance analysis</mark>, analyzing differences between planned financial outcomes and actual results to identify trends.
-<mark>Financial modeling</mark>, building models to forecast financial outcomes, evaluate business opportunities, and assess performance.
-<mark>Regulatory compliance</mark>, ensuring financial and operational practices adhere to laws and regulations.
-<mark>Data mining</mark>, extracting useful information from large datasets to guide business decisions.
-<mark>Scenario planning</mark>, evaluating potential outcomes using financial data to inform risk management strategies.
-<mark>KPIs and metrics development</mark>, defining and tracking key performance indicators for operational and financial efficiency.
-<mark>Internal controls and governance</mark>, implementing controls to ensure data integrity and regulatory compliance.
-<mark>Predictive analytics</mark>, using historical data and statistical models to predict future performance or risks.
-<mark>Risk mitigation</mark>, developing strategies to reduce the likelihood or impact of identified risks on operations.
-<mark>Stakeholder reporting</mark>, presenting data insights, financial results, and risk assessments to internal and external stakeholders.
-<mark>SQL</mark>, writing queries to extract and manipulate data for analysis and reporting.
-<mark>Python</mark>, leveraging programming skills for data analysis, automation, and advanced financial modeling.
-<mark>Generative AI</mark>, utilizing advanced machine learning models to create synthetic data, automate tasks, and generate insights.
-<mark>Large language models (LLMs)</mark>, applying AI-driven tools for natural language processing, data interpretation, and enhanced decision-making support.
+  Key skills I have to help improve your market capital, share price and improve efficiency: <mark>Financial analysis</mark>, interpreting financial data to assess performance and inform strategic decision-making. <mark>Budgeting and forecasting</mark>, developing, managing, and adjusting financial forecasts and budgets.<mark>Power BI dashboard creation</mark>, designing interactive and visually compelling dashboards to present data insights.<mark>Risk identification and assessment</mark>, identifying, evaluating, and prioritizing risks across business processes.
+
 
 content:
   - title: Projects # Title for the section
