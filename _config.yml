@@ -55,45 +55,46 @@ about_profile_image: images/IMG_20240309_153514.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, I’m Charles, a CGMA-qualified accountant with a solid foundation in financial analysis and reporting. Over the course of my career, I’ve developed expertise in financial modeling, data analysis, and auditing. I’m a driven and results-focused professional with a track record of streamlining financial processes, enhancing reporting accuracy, and providing strategic business advice. I’m excited about applying my skills and experience to a challenging role where I can deliver meaningful impact.
 
+
   Key skills I have to help improve your market capital, share price and improve efficiency: 
   
-  <mark>Financial analysis</mark> - interpreting data to drive performance and strategic decisions.
+  <mark>Financial analysis</mark> - expertly interpreting complex financial data to optimise performance and inform strategic decision-making.
   
-  <mark>Budgeting and forecasting</mark> - crafting accurate financial plans and projections.
+  <mark>Budgeting and forecasting</mark> - developing precise financial plans and delivering insightful forecasts to support organisational objectives.
   
-  <mark>Power BI dashboard creation</mark> - delivering advanced visualizations for actionable insights.
+  <mark>Power BI dashboard creation</mark> - designing sophisticated, interactive dashboards that transform data into actionable insights.
   
-  <mark>Python</mark> - applying programming expertise for data automation and modeling.
+  <mark>Python</mark> - leveraging advanced programming skills to automate processes and create innovative financial models.
   
-  <mark>SQL</mark> - querying and manipulating datasets to inform decision-making.
+  <mark>SQL</mark> - crafting and executing efficient queries to extract, manipulate, and analyse critical data with precision.
   
-  <mark>Generative AI</mark> - harnessing machine learning to automate tasks and generate insights.
+  <mark>Generative AI</mark> - applying cutting-edge machine learning techniques to streamline operations and unlock new insights.
   
-  <mark>Large language models (LLMs)</mark> - utilizing AI for data interpretation and enhanced decision-making.
+  <mark>Large language models (LLMs)</mark> - harnessing the potential of AI for natural language processing and enhanced decision support.
   
-  <mark>Risk identification and assessment</mark> - evaluating and prioritizing business risks.
+  <mark>Risk identification and assessment</mark> - systematically evaluating and prioritising risks to safeguard business operations and objectives.
   
-  <mark>Predictive analytics</mark> - forecasting outcomes through statistical models.
+  <mark>Predictive analytics</mark> - utilising statistical models to anticipate trends and proactively inform strategy.
   
-  <mark>Data visualization</mark> - creating concise representations of complex datasets.
+  <mark>Data visualisation</mark> - producing clear, impactful visuals to communicate complex datasets effectively.
   
-  <mark>Financial modeling</mark> - building frameworks to forecast and evaluate opportunities.
+  <mark>Financial modelling</mark> - constructing robust models to evaluate scenarios, forecast performance, and inform critical decisions.
   
-  <mark>Variance analysis</mark> - identifying trends through deviation assessments.
+  <mark>Variance analysis</mark> - meticulously identifying and explaining deviations to uncover trends and improve accuracy.
   
-  <mark>Risk mitigation</mark> - developing strategies to minimize financial and operational risks.
+  <mark>Risk mitigation</mark> - devising comprehensive strategies to reduce risk exposure and enhance organisational resilience.
   
-  <mark>Scenario planning</mark> - analyzing potential outcomes to guide strategies.
+  <mark>Scenario planning</mark> - conducting detailed analyses of potential outcomes to strengthen strategic foresight.
   
-  <mark>Internal controls and governance</mark> - ensuring data integrity and compliance.
+  <mark>Internal controls and governance</mark> - establishing rigorous frameworks to uphold data integrity and ensure regulatory compliance.
   
-  <mark>Stakeholder reporting</mark> - delivering insights and financial results to influence decisions.
+  <mark>Stakeholder reporting</mark> - delivering compelling reports that influence decisions and build stakeholder confidence.
   
-  <mark>KPIs and metrics development</mark> - defining and tracking measures of success.
+  <mark>KPIs and metrics development</mark> - defining and tracking key performance indicators to drive success and accountability.
   
-  <mark>Data mining</mark> - extracting key insights from large datasets.
+  <mark>Data mining</mark> - uncovering valuable insights from vast datasets to inform high-level decision-making.
   
-  <mark>Regulatory compliance</mark> - ensuring adherence to financial and operational standards.
+  <mark>Regulatory compliance</mark> - ensuring all financial and operational activities align with stringent legal and policy requirements.
 
 content:
   - title: Projects # Title for the section
