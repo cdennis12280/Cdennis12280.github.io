@@ -11,6 +11,7 @@ title: |
   Chartered Global Management Accountant [CGMA]
 email: charles.dennis2@gmail.com
 website: https://cdennis12280.github.io/
+location: Northampton, UK # Adding location to personal info
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -56,6 +57,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I’m Charles, a Chartered Global Management Accountant with a solid foundation in financial analysis and reporting. Over the course of my career, I’ve developed expertise in financial modeling, data analysis, and auditing. I’m a driven and results-focused professional with a track record of streamlining financial processes, enhancing reporting accuracy, and providing strategic business advice. I’m excited about applying my skills and experience to a challenging role where I can deliver meaningful impact.
 
+  Let’s connect to discuss how my expertise can align with your organisation’s goals.
 
   Key skills I have to help improve your market capital, share price and improve efficiency: 
   
@@ -212,6 +214,7 @@ content:
       - layout: left
         sub_title: Professional Certifications
         description: | # this will include new lines to allow paragraphs
+          I hold specific certifications in the following specialisms:
           - **Corporate Finance Strategy** - Expertise in aligning financial operations with corporate goals.
           - **Strategy Management** - Advanced skills in implementing and overseeing strategic plans.
           - **Enterprise Risk Management** - Proficiency in identifying, assessing, and mitigating risks.
@@ -221,6 +224,7 @@ content:
           - **Team Performance Management** - Proven ability to lead and enhance team efficiency.
           - **Financial Planning and Analysis** - Expertise in forecasting and analyzing financial performance.
           - **Financial Statement Analysis** - Strong ability to interpret and derive insights from financial statements.
+
 
   - title: A Little More About Me
     layout: text
@@ -245,3 +249,6 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+footer: | 
+  © 2024 Charles Dennis. All Rights Reserved.
