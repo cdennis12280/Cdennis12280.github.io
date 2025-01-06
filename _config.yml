@@ -192,10 +192,34 @@ content:
           Becoming a Chartered Global Management Accountant has been an invaluable journey that has significantly enhanced my expertise in strategic financial management, business performance analysis, and risk management. Through this process, I’ve developed a strong ability to interpret complex financial data, streamline processes, and deliver actionable insights that support sound decision-making and drive business success.
 
           Beyond technical proficiency, the qualification has also strengthened my leadership and problem-solving skills, enabling me to thrive in dynamic and challenging environments. It’s given me a deeper understanding of the bigger picture, allowing me to align financial strategy with broader business objectives and make a tangible impact on organizational growth.
+      
       - layout: left
-        sub_title: CIMA Advanced Diploma in Management Accounting (CIMA Adv Dip MA)
+        sub_title: Advanced Diploma in Management Accounting (Adv Dip MA)
         description: | # this will include new lines to allow paragraphs
           Successfully achieved the CIMA Advanced Diploma in Management Accounting, a qualification equivalent to a bachelor’s degree, showcasing advanced proficiency in financial management, strategic planning, and business performance analysis. This achievement demonstrates my expertise in cost control, budgeting, risk management, and strategic decision-making, all critical to driving operational and organisational success. It has equipped me with the ability to interpret and analyse complex financial data, provide valuable insights to support high-level business decisions, and ensure full compliance with regulatory standards.
+
+      - layout: left
+        sub_title: Diploma in Management Accounting (Dip MA)
+        description: | # this will include new lines to allow paragraphs
+          Successfully achieved the CIMA Diploma in Management Accounting, a qualification equivalent to the first year of a bachelor’s degree, demonstrating a strong foundation in management accounting and financial decision-making. This accomplishment highlights my skills in cost management, budgeting, financial reporting, and performance evaluation. It has equipped me with the knowledge to interpret financial data, support effective decision-making processes, and contribute to the operational success of an organisation.
+
+
+
+  - title: Certifications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        description: | # this will include new lines to allow paragraphs
+          Corporate Finance Strategy
+          Strategy Management
+          Enterprise Risk Management
+          Digital Finance
+          Budget and Cost Analysis
+          Finance Reporting
+          Team Performance Management
+          Financial Planning and Analysis
+          Financial Statement Analysis
+
 
 
 
