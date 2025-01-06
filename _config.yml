@@ -209,22 +209,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        description: | # this will include new lines to allow paragraphs
-          Corporate Finance Strategy
-          Strategy Management
-          Enterprise Risk Management
-          Digital Finance
-          Budget and Cost Analysis
-          Finance Reporting
-          Team Performance Management
-          Financial Planning and Analysis
-          Financial Statement Analysis
-
-
-
-
-
-
+        content: | # this will include new lines to allow paragraphs
+          - Corporate Finance Strategy
+          - Strategy Management
+          - Enterprise Risk Management
+          - Digital Finance
+          - Budget and Cost Analysis
+          - Finance Reporting
+          - Team Performance Management
+          - Financial Planning and Analysis
+          - Financial Statement Analysis
 
 
   - title: A Little More About Me
