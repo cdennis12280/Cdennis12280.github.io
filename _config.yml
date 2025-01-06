@@ -205,21 +205,22 @@ content:
 
 
 
+
   - title: Certifications # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
-        content: | # this will include new lines to allow paragraphs
-          - Corporate Finance Strategy
-          - Strategy Management
-          - Enterprise Risk Management
-          - Digital Finance
-          - Budget and Cost Analysis
-          - Finance Reporting
-          - Team Performance Management
-          - Financial Planning and Analysis
-          - Financial Statement Analysis
-
+        sub_title: Professional Certifications
+        description: | # this will include new lines to allow paragraphs
+          - **Corporate Finance Strategy** - Expertise in aligning financial operations with corporate goals.
+          - **Strategy Management** - Advanced skills in implementing and overseeing strategic plans.
+          - **Enterprise Risk Management** - Proficiency in identifying, assessing, and mitigating risks.
+          - **Digital Finance** - Knowledge of emerging technologies transforming financial processes.
+          - **Budget and Cost Analysis** - Skilled in optimizing budgets and controlling costs.
+          - **Financial Reporting** - Excellence in producing accurate and compliant reports.
+          - **Team Performance Management** - Proven ability to lead and enhance team efficiency.
+          - **Financial Planning and Analysis** - Expertise in forecasting and analyzing financial performance.
+          - **Financial Statement Analysis** - Strong ability to interpret and derive insights from financial statements.
 
   - title: A Little More About Me
     layout: text
