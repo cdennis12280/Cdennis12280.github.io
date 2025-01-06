@@ -13,6 +13,8 @@ email: charles.dennis2@gmail.com
 website: https://cdennis12280.github.io/
 location: Northampton, UK # Adding location to personal info
 
+
+
 # Dark Mode (true/false/never)
 darkmode: false
 
@@ -36,6 +38,9 @@ additional_links:
 - title: risk.net
   icon: fas fa-globe
   url: https://www.risk.net
+- title: Efficiency on Track: Financial Analysis and Strategic Direction for Network Rail
+  icon: fas fa-lightbulb
+  url: https://medium.com/@CharlesClaudeReginaldDennis/efficiency-on-track-financial-analysis-and-strategic-direction-for-network-rail-f2802c3c2921?source=user_profile_page---------0-------------e7330e9b6115---------------
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
