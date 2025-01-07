@@ -11,7 +11,6 @@ title: |
   Chartered Global Management Accountant [CGMA]
 email: charles.dennis2@gmail.com
 website: https://cdennis12280.github.io/
-article: [Barclays Bank: A Finance Professional’s Perspective](https://medium.com/@CharlesClaudeReginaldDennis/barclays-bank-a-finance-professionals-perspective-41f051a224c1)
 location: Northampton, UK # Adding location to personal info
 
 
@@ -40,11 +39,11 @@ additional_links:
   icon: fas fa-globe
   url: https://www.risk.net
 - title: Efficiency on Track - Financial Analysis and Strategic Direction for Network Rail
-  icon: fas fa-lightbulb
+  icon: fas fa-train-track
   url: https://medium.com/@CharlesClaudeReginaldDennis/efficiency-on-track-financial-analysis-and-strategic-direction-for-network-rail-f2802c3c2921?source=user_profile_page---------0-------------e7330e9b6115---------------
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+- title: Efficiency on Track - Financial Analysis and Strategic Direction for Network Rail
+  icon: fas fa-landmark
+  url: https://medium.com/@CharlesClaudeReginaldDennis/efficiency-on-track-financial-analysis-and-strategic-direction-for-network-rail-f2802c3c2921?source=user_profile_page---------0-------------e7330e9b6115---------------
 
 
 ### Need to get this working ####
