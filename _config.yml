@@ -38,12 +38,23 @@ additional_links:
 - title: risk.net
   icon: fas fa-globe
   url: https://www.risk.net
+
+- title: Barclays Bank - A Finance Professional’s Perspective
+  icon: fas fa-landmark
+  url: https://medium.com/@CharlesClaudeReginaldDennis/barclays-bank-a-finance-professionals-perspective-41f051a224c1
+
+- title: West Northamptonshire Council - A Financial Perspective
+  icon: fas fa-map
+  url: https://medium.com/@CharlesClaudeReginaldDennis/west-northamptonshire-council-a-financial-perspective-4b728200baf0
+
 - title: Efficiency on Track - Financial Analysis and Strategic Direction for Network Rail
-  icon: fas fa-train-track
+  icon: fas fa-train
   url: https://medium.com/@CharlesClaudeReginaldDennis/efficiency-on-track-financial-analysis-and-strategic-direction-for-network-rail-f2802c3c2921?source=user_profile_page---------0-------------e7330e9b6115---------------
-- title: Efficiency on Track - Financial Analysis and Strategic Direction for Network Rail
+
+- title: Santander Bank - A Finance Professional's Perspective
   icon: fas fa-landmark
   url: https://medium.com/@CharlesClaudeReginaldDennis/efficiency-on-track-financial-analysis-and-strategic-direction-for-network-rail-f2802c3c2921?source=user_profile_page---------0-------------e7330e9b6115---------------
+
 
 
 ### Need to get this working ####
