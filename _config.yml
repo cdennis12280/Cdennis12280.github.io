@@ -35,9 +35,6 @@ github_username:  cdennis12280
 
 # Additional icon links
 additional_links:
-- title: risk.net
-  icon: fas fa-globe
-  url: https://www.risk.net
 
 - title: Barclays Bank - A Finance Professional’s Perspective
   icon: fas fa-landmark
