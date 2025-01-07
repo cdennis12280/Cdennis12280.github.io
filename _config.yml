@@ -243,11 +243,17 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in financial derivatives and strategic finance some of my other interests and hobbies are:
-      - Artificial Intelligence (You can find out more on my github account)
-      - Data-Driven Decision-Making
-      - Mountain Biking
-      - Gaming
-      - Keeping fit
+      - Artificial Intelligence – You can find more about this passion on my GitHub account.
+      - Data-Driven Decision-Making – Leveraging analytics to unlock potential across industries.
+      - Mountain Biking – Exploring challenging trails and pushing my limits outdoors.
+      - Gaming – Immersing in strategy-based games that refine problem-solving and decision-making skills.
+      - Keeping Fit – Staying active through regular fitness routines and outdoor activities.
+      - Travel and Culture – Discovering new destinations and appreciating diverse cultures and cuisines.
+      - Mentorship and Coaching – Helping others grow in their professional and personal journeys.
+      - Reading and Writing – Exploring finance, technology, and personal development topics through books and blogs.
+
+
+
 
 # Footer
 footer_show_references: false
